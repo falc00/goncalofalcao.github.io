@@ -1212,7 +1212,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-success:not(:disabled):not(.disabled).active,
 .btn-success:not(:disabled):not(.disabled).active:focus,
 .show>.btn-success.dropdown-toggle {
-  background-color: #44c47d;
+  background-color: #3bac6e;
   color: #FFFFFF;
   border-color: #44c47d;
   box-shadow: none;
