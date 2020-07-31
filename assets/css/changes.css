@@ -1,0 +1,8 @@
+.carouselExampleIndicators .carousel-inner{
+    height: 400px;
+}
+.carousel-inner img {
+    height: 500px;
+    object-fit: scale-down;
+}
+  
